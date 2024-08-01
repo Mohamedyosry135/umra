@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "627347106490",
+    "project_id": "umra-23807",
+    "storage_bucket": "umra-23807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627347106490:android:c00f8d995a1e069d7e3083",
+        "android_client_info": {
+          "package_name": "com.umra.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627347106490-r20g8kr6v46e5l0p079fbscldpt586ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4CoqPHHLsABElWMVm7hC5AK5RzNVuus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627347106490-r20g8kr6v46e5l0p079fbscldpt586ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627347106490:android:7540e91393cd936b7e3083",
+        "android_client_info": {
+          "package_name": "com.umra.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627347106490-r20g8kr6v46e5l0p079fbscldpt586ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4CoqPHHLsABElWMVm7hC5AK5RzNVuus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627347106490-r20g8kr6v46e5l0p079fbscldpt586ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
